@@ -1,0 +1,11 @@
+﻿answer to Q1,answer to Q2,answer to Q3,answer to Q4,answer to Q5,respondent's age,respondent's gender,respondent's occupation
+1,3,10,difference-honoring,no,20,male,student
+1,3,10,difference-honoring,yes,51,female,nurse
+1,2,10,difference-honoring,no,46,male,network administrator
+1,1,10,difference-honoring,no,20,male,student
+1,3,9,difference-removing,no,21,male,student
+2,2,10,difference-honoring,no,21,female,student
+1,4,10,difference-honoring,yes,29,female,insurance agent
+1,3,10,difference-honoring,no,20,male,student
+2,3,10,difference-honoring,no,20,male,student
+2,6,9,difference-removing,no,20,female,student
